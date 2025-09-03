@@ -32,3 +32,10 @@ Downloads/
      └── report.pdf
 
 
+#Notes
+
+The script ignores directories inside the target folder.
+If files already exist in the destination folder, they may be overwritten.
+
+# License
+This project is free to use and modify.
